@@ -1,0 +1,35 @@
+*{text-decoration: none;
+font-family: sans-serif;
+margin-top: 20px;
+margin-left: 20px;}
+
+table{
+    width: 450px;
+    border-spacing: 10px;
+}
+
+span{
+    font-size:12px;
+    font-style:italic;
+}
+
+li{
+    margin-left:-10px;
+}
+
+
+h1{
+    margin-left:-10px;
+    color:red;
+    font-style: italic;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+h1:hover{
+    color:black;
+    font-size: 90px;
+}
+
+
+
